@@ -12,4 +12,4 @@ const numeroString = "456"
 //string()
 //conversao do tipo
 
-console.log(numero + Number(numeroString)) //912//
+console.log(numero + Number(numeroString)) //912
