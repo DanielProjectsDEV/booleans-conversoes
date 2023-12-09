@@ -4,7 +4,7 @@ const numeroString = "456"
 
 //console.log(numero == numeroString) //true
 
-//console.log(numero + numeroString) //456456
+//console.log(numero + numeroString) 456456
 
 //conversao explicita
 
